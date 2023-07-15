@@ -17,7 +17,7 @@
 
 <p align="center"> 
 <!--- Fontran -->
-<a href="https://www.fortran90.org/" target="_blank" rel="noreferrer"> <img src="https://cesup.ufrgs.br/imagens-1/cursos/fortran-90-95/image_view_fullscreen" alt="fortran" width="40" height="40"/></a>
+<a href="https://www.fortran90.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="40" height="40"/></a>
 <!--- C -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <!--- C++ -->
