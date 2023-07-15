@@ -16,10 +16,16 @@
 - 👥 [Personal Webpage](http://utminers.utep.edu/hrmoncadalopez/)
 
 <p align="center"> 
+<!--- Fontran -->
+<a href="https://www.fortran90.org/" target="_blank" rel="noreferrer"> <img src="https://cesup.ufrgs.br/imagens-1/cursos/fortran-90-95/image_view_fullscreen" alt="fortran" width="40" height="40"/></a>
 <!--- C -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <!--- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<!--- MPI -->
+<a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:300/1*lkzY0KzcU-ra9bqSHa7Kcw.png" alt="mpi" width="40" height="40"/> </a>
+<!--- OPENMP -->
+<a href="https://www.openmp.org/" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/cppblog/wp-content/uploads/sites/9/2022/11/OpenMP_logo.png" alt="openmp" width="40" height="40"/> </a>
 <!--- GITHUB -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!--- HTML -->
